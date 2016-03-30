@@ -1,7 +1,7 @@
-package com.duck;
+package com.strategy.duck;
 
-import com.duck.fly.FlyWithWings;
-import com.duck.quack.MuteQuack;
+import com.strategy.duck.fly.FlyWithWings;
+import com.strategy.duck.quack.MuteQuack;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {

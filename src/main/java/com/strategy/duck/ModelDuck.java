@@ -1,7 +1,7 @@
-package com.duck;
+package com.strategy.duck;
 
-import com.duck.fly.FlyNoWay;
-import com.duck.quack.MuteQuack;
+import com.strategy.duck.fly.FlyNoWay;
+import com.strategy.duck.quack.MuteQuack;
 
 /**
  * Created by zheng on 3/30/16.

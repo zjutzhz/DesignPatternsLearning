@@ -1,8 +1,8 @@
 
-package com.duck;
+package com.strategy.duck;
 
-import com.duck.fly.FlyBehavior;
-import com.duck.quack.QuackBehavior;
+import com.strategy.duck.fly.FlyBehavior;
+import com.strategy.duck.quack.QuackBehavior;
 
 public abstract class Duck
 

@@ -1,4 +1,4 @@
-package com.duck.quack;
+package com.strategy.duck.quack;
 
 /**
  * Created by zheng on 3/30/16.

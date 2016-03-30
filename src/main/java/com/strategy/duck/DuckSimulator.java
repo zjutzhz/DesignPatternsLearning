@@ -1,9 +1,8 @@
-package com.duck;
+package com.strategy.duck;
 
-import com.duck.fly.FlyNoWay;
-import com.duck.fly.FlyRocketPowered;
-import com.duck.fly.FlyWithWings;
-import com.duck.quack.Quack;
+import com.strategy.duck.fly.FlyRocketPowered;
+import com.strategy.duck.fly.FlyWithWings;
+import com.strategy.duck.quack.Quack;
 
 public class DuckSimulator
 

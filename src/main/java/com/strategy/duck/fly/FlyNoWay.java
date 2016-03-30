@@ -1,4 +1,4 @@
-package com.duck.fly;
+package com.strategy.duck.fly;
 
 /**
  * Created by zheng on 3/29/16.
